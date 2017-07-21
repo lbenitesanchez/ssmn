@@ -1,0 +1,12 @@
+export(ssmn.est)
+export(ssmn)
+export(pssmn)
+export(qssmn)
+export(envel)
+importFrom("moments","skewness")
+importFrom("truncdist","rtrunc")
+importFrom("mnormt","pmnorm")
+importFrom("sn","psn")
+importFrom("graphics", "par", "plot")
+importFrom("stats", "dnorm","integrate","optimize","pnorm","optim", "pgamma", "ppoints", "qchisq", "qnorm", "qt", "quantile", "rbeta", "rbinom", "rchisq", "rf", "rgamma", "rnorm", "runif")
+
